@@ -1,2 +1,2 @@
-# math
-Some useful classes, functions I write stude
+# Math
+Some useful classes, functions I write study
